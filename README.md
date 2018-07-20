@@ -11,4 +11,4 @@ https://gist.github.com/pirapira/e7f5d3d44d5b6b14ca2ad1980083e233
 
 Truffle Suite
 
-DIY Internet of Things
+Ardunio Starter Workshop
