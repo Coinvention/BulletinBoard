@@ -1,5 +1,8 @@
 # BulletinBoard 
 
+https://discord.gg/UhNUgr
+
+
 ## Workshops
 
 
