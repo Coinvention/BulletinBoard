@@ -4,8 +4,10 @@
 
 https://discord.gg/UhNUgr
 
+## Bulletin Messages
 
 - hey everyone this is the team up by the dartboard. This should be a fun hackathon. thanks for hosting us Coinvention/Fanbase!
+- (add here)
 
 
 ## Workshops
