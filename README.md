@@ -5,10 +5,7 @@
 https://discord.gg/UhNUgr
 
 
-### Hey everyone! this is something to be added! :D
-
-
-### Edit number two!
+- hey everyone this is the team up by the dartboard. This should be a fun hackathon. thanks for hosting us Coinvention/Fanbase!
 
 
 ## Workshops
