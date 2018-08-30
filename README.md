@@ -1,5 +1,7 @@
 # BulletinBoard 
 
+##Discord
+
 https://discord.gg/UhNUgr
 
 
