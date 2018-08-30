@@ -1,6 +1,6 @@
 # BulletinBoard 
 
-##Discord
+## Discord
 
 https://discord.gg/UhNUgr
 
